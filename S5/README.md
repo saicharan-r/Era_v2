@@ -2,7 +2,6 @@
 
 ### calculations
 <img width="1419" alt="Screenshot 2023-06-10 at 7 07 53 AM" src="https://github.com/saicharan-r/Erav1/assets/24753138/15b983aa-d609-4ac7-986a-b33bd4d3954b">
-<img width="1423" alt="Screenshot 2023-06-10 at 7 07 32 AM" src="https://github.com/saicharan-r/Erav1/assets/24753138/1dfd13cc-5980-443c-9ed8-791a459388e9">
 
 ### Model
 
