@@ -12,6 +12,8 @@ Best testing accuracy = 98.82%
 It is a big model with close 200k parameters
 Model is overfitting as the training accuracy is more and test accuracy is less
 
+https://github.com/saicharan-r/Erav1/blob/main/S7/S7-1.ipynb
+
 
 # Iteration 2
 
@@ -27,6 +29,10 @@ Best testing accuracy = 98.62%
 Model has around 10k parameters which is lesser than the target model but closer to it
 The gap between the test and training accuracy is reduced meaning the model has trained in a right way but the efficiency is to be improved
 
+https://github.com/saicharan-r/Erav1/blob/main/S7/S7-2.ipynb
+
+
+
 # Iteration 3
 
 ## Target
@@ -40,5 +46,7 @@ Best testing accuracy = 99.45
 # Analysis
 Model is trained well and with less parameters and is within the limits.
 The image augmentation along with the plateau learning rate helped to made the model efficient
+
+https://github.com/saicharan-r/Erav1/blob/main/S7/S7-3.ipynb
 
 
