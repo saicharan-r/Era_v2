@@ -7,6 +7,7 @@ The target is to setup the model and get the skeleton right
 Parameters = 194,884
 Best training accuracy = 99.53%
 Best testing accuracy = 99.01%
+Epochs - 20
 
 ## Analysis
 It is a big model with close 200k parameters
@@ -24,6 +25,7 @@ To reduce the parameters
 Parameters = 9,990
 Best training accuracy = 99.03%
 Best testing accuracy = 98.84%
+Epochs - 20
 
 ## Analysis
 Model has around 10k parameters which is lesser than the target model but closer to it
@@ -42,6 +44,7 @@ Achieved the desired target through augmentation and regularisation of input dat
 Parameters = 7,750
 Best training accuracy = 99.12
 Best testing accuracy = 99.46
+Epochs - 15
 
 
 # Analysis
