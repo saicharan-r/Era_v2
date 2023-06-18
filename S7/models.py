@@ -84,7 +84,7 @@ class Model_1(nn.Module):
 
 class Model_2(nn.Module):
     def __init__(self):
-        super(Model_04, self).__init__()
+        super(Model_2, self).__init__()
         # Input Block
         self.conv0 = nn.Sequential(
             nn.Conv2d(
