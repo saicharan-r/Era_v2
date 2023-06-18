@@ -22,8 +22,8 @@ To reduce the parameters
 
 ## Results
 Parameters = 9,990
-Best training accuracy = 98.88%
-Best testing accuracy = 98.62%
+Best training accuracy = 99.03%
+Best testing accuracy = 98.84%
 
 ## Analysis
 Model has around 10k parameters which is lesser than the target model but closer to it
