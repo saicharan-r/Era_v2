@@ -82,7 +82,7 @@ class Model_1(nn.Module):
         x = x.view(-1, 10)
         return F.log_softmax(x, dim=-1)
 
-class Model_04(nn.Module):
+class Model_2(nn.Module):
     def __init__(self):
         super(Model_04, self).__init__()
         # Input Block
