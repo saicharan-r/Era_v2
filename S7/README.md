@@ -36,16 +36,19 @@ https://github.com/saicharan-r/Erav1/blob/main/S7/S7-2.ipynb
 # Iteration 3
 
 ## Target
-Achieved the desired target
+Achieved the desired target through augmentation and regularisation of input data and using GAP to reduce the params in the last layer
 
 # Results
 Parameters = 7,750
-Best training accuracy = 99.6
-Best testing accuracy = 99.45
+Best training accuracy = 99.12
+Best testing accuracy = 99.46
+
 
 # Analysis
 Model is trained well and with less parameters and is within the limits.
-The image augmentation along with the plateau learning rate helped to made the model efficient
+The image augmentation and regularisation along with the plateau learning rate helped to made the model efficient
+Achieved consistent 99.4% accuracy in the last few runs
+
 
 https://github.com/saicharan-r/Erav1/blob/main/S7/S7-3.ipynb
 
