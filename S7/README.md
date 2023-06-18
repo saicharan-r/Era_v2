@@ -5,8 +5,8 @@ The target is to setup the model and get the skeleton right
 
 ## Results
 Parameters = 194,884
-Best training accuracy = 99.38%
-Best testing accuracy = 98.82%
+Best training accuracy = 99.53%
+Best testing accuracy = 99.01%
 
 ## Analysis
 It is a big model with close 200k parameters
