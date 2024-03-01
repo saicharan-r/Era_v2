@@ -23,6 +23,7 @@ Similary the following table shows the derivates wrt other weights
 <img width="462" alt="Screenshot 2023-06-10 at 7 29 32 AM" src="https://github.com/saicharan-r/Erav1/assets/24753138/7ff63d66-d4de-414c-a962-72491867e7c6">
 
 
+
 And the table shows the calculations of these parameters in each iteration of back propogation
 
 
